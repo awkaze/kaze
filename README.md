@@ -3,7 +3,7 @@
 *version 3.2.1*
 
 Kaze est un Bot Discord créé pour le serveur Discord des 1ères années du BUT Informatique de l'IUT de Lannion, dans le but de proposer des commandes amusantes et utiles pour ses membres.
-Le bot est codé de sorte à ce qu'il ne fonctionne que sur ce sevreur, mais les techniques utilisées peuvent être réutilisées autre part.
+Le bot est codé de sorte à ce qu'il ne fonctionne que sur ce serveur, mais les techniques utilisées peuvent être réutilisées autre part.
 
 ## Table des Matières
 
