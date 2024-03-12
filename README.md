@@ -1,5 +1,7 @@
 # Kaze - Bot Discord Multifonction
 
+(You're currently reading the french version of our README. Select README-ENG for the english version !)
+
 *version 3.2.1*
 
 Kaze est un Bot Discord créé pour le serveur Discord des 1ères années du BUT Informatique de l'IUT de Lannion, dans le but de proposer des commandes amusantes et utiles pour ses membres.
