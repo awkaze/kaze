@@ -43,3 +43,6 @@ Toutes les données sont stockées dans une base de données **MySQL** hébergé
 Lien du projet : https://github.com/awkaze/kaze
 
 Vous pouvez me contacter via Discord : [awkaze_](discordapp.com/users/713900037796659211)
+
+<img src="https://cdn.discordapp.com/attachments/1217160501390479423/1217173449814839446/image.png?ex=6603101c&is=65f09b1c&hm=a3833ee15013dbaa1f26d6e845709583964e9211418fd7e4ab10fdc763a3cd95&" width="500" height="300">
+
