@@ -41,8 +41,8 @@ There are also other commands such as `say`, `ping` or `uptime`.
 You will find them all using the `help` command !
 
 ## Data
-Toutes les données sont stockées dans une base de données **MySQL** hébergée sur un serveur externe, gérées à l'aide de [phpMyAdmin](https://www.phpmyadmin.net).
-All the data are stored in a MySQL database hosted on an external server, managed with [phpMyAdmin](https://www.phpmyadmin.net).
+All the data are stored in an external **MySQL** database, managed with a [phpMyAdmin](https://www.phpmyadmin.net) control panel.
+
 
 ## Contact
 The project : https://github.com/awkaze/kaze
